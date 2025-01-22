@@ -122,7 +122,7 @@ button {
 
 
 .hero {
-    background-image: url("../img/jpg/hero.background.jpg");
+    background-image: url("img/jpg/hero.background.jpg");
     background-size: cover;
     height: 707px;
     padding-top: 194px;
